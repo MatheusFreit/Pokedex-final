@@ -17,3 +17,11 @@ Recursos:
  * Inicie o Servidor de Desenvolvimento: ng serve
  * Acesse no Navegador: Abra o navegador e vá para http://localhost:4200/
 
+## Dependências
+* Angular CLI: 16.2.9
+* Node: 18.18.2
+* Package Manager: npm 9.8.1
+* HttpClient: Para realizar chamadas HTTP à PokeAPI.
+
+## imagem 
+<img  src="https://github.com/MatheusFreit/Pokedex-final/blob/master/pokedex/pokemon.PNG" Alt = "pokemon">
